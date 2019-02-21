@@ -1,5 +1,5 @@
 FROM blacklabelops/alpine:3.8
-MAINTAINER Steffen Bleul <sbl@blacklabelops.com>
+MAINTAINER Ascend NTNU "www.ascendntnu.no"
 
 # Note that you also need to update buildscripts/release.sh when the
 # Jira version changes
